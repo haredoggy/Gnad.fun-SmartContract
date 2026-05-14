@@ -141,7 +141,7 @@ gnad.fun is a smart contract system for creating and managing bonding curve-base
 
 ### GNad Events
 
-```solidity
+```Solidity
 event GNadCreate();
 event GNadBuy();
 event GNadSell();
